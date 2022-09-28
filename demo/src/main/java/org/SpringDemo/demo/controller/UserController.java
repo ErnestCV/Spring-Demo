@@ -3,7 +3,6 @@ package org.SpringDemo.demo.controller;
 import lombok.AllArgsConstructor;
 import org.SpringDemo.demo.dto.request.SignupRequest;
 import org.SpringDemo.demo.dto.response.UserDTO;
-import org.SpringDemo.demo.model.User;
 import org.SpringDemo.demo.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
